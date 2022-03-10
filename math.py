@@ -4,7 +4,7 @@ def add(x,y):
 
 # Subtract implementationsss
 def subtract(x,y):
-    return x-y      # on master branch
+    pass     # from remote repository
 
 # Multiply implementationsss
 def multiply(x,y):
